@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1462967473 source:c:\users\qwerty\dropbox\equth\equth\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+	<random>
+	<time.h>
+	<iomanip>
+	<fstream>
+
+1462968671 source:c:\users\luis\dropbox\equth\equth\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+	<random>
+	<time.h>
+	<iomanip>
+	<fstream>
+
