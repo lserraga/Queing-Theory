@@ -1,5 +1,5 @@
 # Queing-Theory
-C++ program to simulate a queuing system consisting of 2 oncatenated systems:
+C++ program to simulate a queuing system consisting of 2 concatenated systems:
 
 First of all, there is a queue with a finite length of K1, following a Poisson process (memoryless) with an arrival rate of λ elements/time unit. The first server has an exponential (memoryless) service time distribution with a service rate of µ1 elements/time unit (in this example 2 elements/time unit).This first part of the system is analog to an M/M/1/K system following the Kendall’s notation.
 
